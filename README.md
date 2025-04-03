@@ -72,7 +72,7 @@ Support attaching receipts or other relevant documents to expense entries.
 Clone the project
 
 ```bash
-  git clone https://github.com/Priyanshu9898/Personal-Finance-Manager
+  git clone https://github.com/karan270802/Personal-Finance-Manager
 ```
 
 Go to the project directory
